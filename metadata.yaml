@@ -1,0 +1,51 @@
+_repo: In-Pastures-New_38364
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Levering, Albert
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '25625'
+    url: http://www.gutenberg.org/2009/agents/25625
+covers:
+- cover_type: archival
+  image_path: 38364-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Ade, George
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '3917'
+    url: http://www.gutenberg.org/2009/agents/3917
+    wikipedia: http://en.wikipedia.org/wiki/George_Ade
+description: ''
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Humor'
+- !lcsh 'London (England) -- Description and travel -- Humor'
+- !lcc 'PS'
+- !lcsh 'Egypt -- Description and travel -- Humor'
+tableOfContents: 'In London: Getting acquainted with the English language. A life
+  on the ocean wave, with modern variations. With Mr. Peasley in darkest London. How
+  it feels to get into London and then be engulfed. As to the importance of the passport
+  and the handy little cable code. What one man picked up in London and sent back
+  to his brother -- In Paris: How an American enjoys life for eight minutes at a time.
+  A chapter of French justice as dealt out in the Dreyfus case. The story of what
+  happened to an American consul -- In Naples: Mr. Peasley and his vivid impressions
+  of foreign parts -- In Cairo: Cairo as the annual stamping ground for Americans
+  and why they make the trip. Round about Cairo, with and without the assistance of
+  the dragoman or Simon Legree of the Orient. All about our visit to the Pyramid of
+  Cheops. Dashing up the Nile in company with Mr. Peasley and others. Day by day on
+  the drowsy Nile, with something about the wonderful Hassim. The Mohammedan fly and
+  other creatures along the Nile. In and around Luxor, with a side light on Rameses
+  the Great. The ordinary human failings of the ancient moguls. Royal tombs and other
+  places of amusement. Mr. Peasley and his final size-up of Egypt.'
+title: In Pastures New
+url: http://www.gutenberg.org/ebooks/38364
